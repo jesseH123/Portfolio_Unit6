@@ -22,11 +22,14 @@
     li {
       display: inline;
       padding: 0px 10px 0px 10px;
+      font-family: fantasy;
     }
     div{
       max-width: 500px;
       padding: 20px;
       margin: 0 auto;
+      font-family:cursive;
+    
     }
     @media (max-width: 500px) {
       h1 {
